@@ -1,4 +1,4 @@
-# knk2021-2022
+# KNK_GRUPI_07
 
 Projektet që do të realizohen në lëndën “Komunikimi Njeri Kompjuter” do të kenë të njëjtën përmbajtje  për të gjitha grupet por me titull dhe qëllim të ndryshëm për çdo grup. 
 
